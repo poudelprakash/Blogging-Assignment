@@ -41,7 +41,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="744">
               <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="38" />
-              <folding />
+              <folding>
+                <marker date="1420708308160" expanded="true" signature="24:213" placeholder=" ... end" />
+                <marker date="1420708308160" expanded="true" signature="63:209" placeholder=" ... end" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -490,7 +493,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="744">
           <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="38" />
-          <folding />
+          <folding>
+            <marker date="1420708308160" expanded="true" signature="24:213" placeholder=" ... end" />
+            <marker date="1420708308160" expanded="true" signature="63:209" placeholder=" ... end" />
+          </folding>
         </state>
       </provider>
     </entry>
