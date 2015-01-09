@@ -1,7 +1,6 @@
 <h1><%= @tag.name %></h1>
 <ul>
-  <%
-     @tag.articles.each do |article|
-  %><li><a href="/articles/<%=article.id%>"><%=article.title %> </a></li>
+  <% @tag.articles.each do |article| %>
+      <li><a href="/articles/<%=article.id%>"><%=article.title %> </a></li>
   <% end %>
 </ul>

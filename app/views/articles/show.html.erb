@@ -2,8 +2,7 @@
 <p><%= @article.content %></p>
 <%='No Comments'if @article.comments.blank? %>
 <ul>
-<%
-@article.comments.each do |comment|
-    %><li><%=comment.comments %> </li>
+<% @article.comments.each do |comment| %>
+      <li><%=comment.comments %> </li>
 <% end %>
 </ul>
